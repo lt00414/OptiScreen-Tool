@@ -4,7 +4,7 @@ A common struggle during protein crystallisation is that once an initial crystal
 
 ## Use OptiScreen Tool 
 
-Try it line [here](https://ramp-mdl.appspot.com)
+Try it pnline [here](https://ramp-mdl.appspot.com)
 
 ## Run OptiScreen Tool locally (for development)
 
