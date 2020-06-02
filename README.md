@@ -37,7 +37,7 @@ gcloud browse
 ```
 
 ## Acknowledgements 
-Initial version of this tool was based on [SyCoFinder](https://github.com/ltalirz/sycofinder)
+Initial version of this tool was based on [SyCoFinder](https://github.com/ltalirz/sycofinder).
 We acknowledge funding from the European Union's Horizon 2020 programme under Marie Sklodowska-Curie grant agreement number 722687
 
 ## Contact
