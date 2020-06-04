@@ -3,7 +3,7 @@ from ramp_crystallisation_tool import app, app_home, app_initial_cond_grid, app_
 import dash.dependencies as dep
 
 '''
-This is the main script that compile to run the app.
+This is the main script that compiles the app.
 When you want to deploy the app with google cloud, 
 cp this file to main.py
 '''
