@@ -2,10 +2,6 @@ The purpose of this web tool is to help experimentalists working on the crystall
 
 A common struggle during protein crystallisation is that once an initial crystal has been obtained from a commercial screen, the optimisation of the hit conditions is not trivial. The task becomes even more challenging when users try to optimise some of the newest, more sophisticated screens. These screens have many complex conditions and a large number of variables (salts, buffers, precipitant, additives, pH, temperature…). The drawback of these screens are that as the complexity increases, the strangles of designing an optimisation strategy increases as well. This tool is aiming to address this issue using condition search methods: grid search and Latin hypercube sampling. 
 
-## Use OptiScreen Tool 
-
-Try it online [here](https://ramp-mdl.appspot.com)
-
 ## Run OptiScreen Tool locally (for development)
 
 Use requirements.txt to install all dependencies: 
